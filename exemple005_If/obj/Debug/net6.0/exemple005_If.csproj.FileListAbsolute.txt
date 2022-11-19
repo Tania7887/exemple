@@ -1,0 +1,5 @@
+C:\Users\Татьяна\OneDrive\Рабочий стол\exemples1\exemple005_If\obj\Debug\net6.0\exemple005_If.csproj.AssemblyReference.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\exemples1\exemple005_If\obj\Debug\net6.0\exemple005_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\OneDrive\Рабочий стол\exemples1\exemple005_If\obj\Debug\net6.0\exemple005_If.AssemblyInfoInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\exemples1\exemple005_If\obj\Debug\net6.0\exemple005_If.AssemblyInfo.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\exemples1\exemple005_If\obj\Debug\net6.0\exemple005_If.csproj.CoreCompileInputs.cache
